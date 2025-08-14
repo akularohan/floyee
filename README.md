@@ -1,10 +1,10 @@
-# 🚀 Trellis - Professional Task Management App
+# 🚀 Flowy - Professional Task Management App
 
 <div align="center">
 
-![Trellis Logo](https://img.shields.io/badge/Trellis-Task%20Management-8b5cf6?style=for-the-badge&logo=trello&logoColor=white)
+![Flowy Logo](https://img.shields.io/badge/Flowy-Task%20Management-8b5cf6?style=for-the-badge&logo=trello&logoColor=white)
 
-**Your one stop to organize all tasks**
+**A sleek and powerful task management solution I built for modern teams**
 
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=flat&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js)](https://nodejs.org/)
@@ -50,7 +50,7 @@
 
 ```powershell
 # Windows PowerShell (Recommended)
-.\start-trellis.ps1
+.\start-flowy.ps1
 
 # Alternative methods:
 .\start.ps1
@@ -236,6 +236,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Rohan**
 
-[⭐ Star this repo](https://github.com/your-username/trellis) | [🐛 Report Bug](https://github.com/your-username/trellis/issues) | [💡 Request Feature](https://github.com/your-username/trellis/issues)
+[⭐ Star this repo](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration) | [🐛 Report Bug](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration/issues) | [💡 Request Feature](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration/issues)
 
 </div>

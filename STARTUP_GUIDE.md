@@ -1,4 +1,4 @@
-# 🚀 Trellis - Startup Guide
+# 🚀 Flowy - Startup Guide
 
 ## Quick Start
 
@@ -47,7 +47,7 @@ npm start
 - **Modern Design** - Purple gradient theme with smooth animations
 - **Responsive Layout** - Works on desktop, tablet, and mobile
 - **Arrow Navigation** - Move tasks left/right with arrow buttons
-- **Click-to-Top** - Click "Trellis" title to scroll to top
+- **Click-to-Top** - Click "Flowy" title to scroll to top
 - **Team Permissions** - Leaders can delete teams, members can leave
 - **Professional Footer** - "Made with ❤️ by Rohan Akula"
 

@@ -1,4 +1,4 @@
-Write-Host "🚀 Starting Trellis - Professional Task Management App" -ForegroundColor Cyan
+Write-Host "🚀 Starting Flowy - Professional Task Management App" -ForegroundColor Cyan
 Write-Host "=================================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -43,16 +43,16 @@ Write-Host "✅ Dependencies ready!" -ForegroundColor Green
 Write-Host ""
 
 # Start the servers
-Write-Host "🔧 Starting Trellis Backend Server (Port 8000)..." -ForegroundColor Magenta
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "Write-Host 'Trellis Backend Server' -ForegroundColor Green; npm run server" -WindowStyle Normal
+Write-Host "🔧 Starting Flowy Backend Server (Port 8000)..." -ForegroundColor Magenta
+Start-Process powershell -ArgumentList "-NoExit", "-Command", "Write-Host 'Flowy Backend Server' -ForegroundColor Green; npm run server" -WindowStyle Normal
 
 Start-Sleep -Seconds 3
 
-Write-Host "🎨 Starting Trellis Frontend (Port 3000)..." -ForegroundColor Magenta
-Start-Process powershell -ArgumentList "-NoExit", "-Command", "Write-Host 'Trellis Frontend' -ForegroundColor Blue; cd client; npm start" -WindowStyle Normal
+Write-Host "🎨 Starting Flowy Frontend (Port 3000)..." -ForegroundColor Magenta
+Start-Process powershell -ArgumentList "-NoExit", "-Command", "Write-Host 'Flowy Frontend' -ForegroundColor Blue; cd client; npm start" -WindowStyle Normal
 
 Write-Host ""
-Write-Host "🎉 Trellis is starting up!" -ForegroundColor Green
+Write-Host "🎉 Flowy is starting up!" -ForegroundColor Green
 Write-Host "=================================================" -ForegroundColor Cyan
 Write-Host "🌐 Frontend: http://localhost:3000" -ForegroundColor Blue
 Write-Host "⚙️  Backend:  http://localhost:8000" -ForegroundColor Green
