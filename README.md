@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Flowy - Professional Task Management App
 
 <div align="center">
@@ -239,3 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⭐ Star this repo](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration) | [🐛 Report Bug](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration/issues) | [💡 Request Feature](https://github.com/akularohan/Flowy---Professional-Task-Management-App-with-Real-time-Collaboration/issues)
 
 </div>
+=======
+# floyee
+>>>>>>> f611c30ee3227d48e432a10159e00e2ece593abb
