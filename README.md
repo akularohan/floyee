@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Flowy - Professional Task Management App
 
 <div align="center">
@@ -229,4 +229,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 =======
 # flowy
->>>>>>> f611c30ee3227d48e432a10159e00e2ece593abb
+
