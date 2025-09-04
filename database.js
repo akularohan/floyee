@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 // MongoDB Connection
 const connectDB = async () => {
     try {
-        await mongoose.connect('your_MonogDB_key', {
+        await mongoose.connect('mongodb+srv://rohanakula909:ilovemongodb3000@cluster0.iitvr2v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
             serverSelectionTimeoutMS: 10000,
             socketTimeoutMS: 45000,
             maxPoolSize: 10,
